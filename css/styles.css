@@ -1,7 +1,7 @@
 .about-me {
   width: 50%;
   border: solid black;
-  margin: 10px;
+  margin: 5px;
   padding: 5px;
 }
 
@@ -10,7 +10,7 @@
 }
 
 img {
-  width:50%;
+  width:25%;
   border: solid black;
   margin:auto;
   float: right;
