@@ -4,7 +4,7 @@
 _____________________________
 
 ### Project Discription 📖
-  * A web page that serves as a portfolio for myself. Page displays information about me, my education and job history, and provides links to some of my GitHub repositories. 
+  * A web page that serves as a portfolio for myself. The webpage displays information about me, my education and job history, and provides links to some of my GitHub repositories. 
   _____________________________
 
 ### Technologies Used 🖥️
