@@ -5,13 +5,17 @@
   text-align: center;
 }
 
+/* h1 {
+  color: #111111;
+} */
+
 li {
   text-align: center;
 }
 
 .jumbotron {
   text-align: center;
-  text-shadow: 4px 4px 4px greenyellow;
+  text-shadow: 4px 4px 4px rgb(0, 0, 0);
 }
 
 img {
@@ -19,7 +23,14 @@ img {
 }
 
 .card {
-  background-color: #111111;
+  color: #111111;
+  border: solid black;
+  margin: 5px;
+  padding: 2px;
+}
+
+a {
+  text-align: center;
 }
 
 
