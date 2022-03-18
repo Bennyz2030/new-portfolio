@@ -2,7 +2,6 @@ img {
   width: 80%;
   border:solid black;
   margin: auto;
-
 }
 
 .jumbotron {
@@ -24,7 +23,6 @@ h2 {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-shadow: 2px 2px 2px powderblue;
 }
-
 
 html {
   height:100%;
@@ -54,19 +52,6 @@ body {
 .bg3 {
   animation-duration:5s;
 }
-
-/* .content {
-  background-color:rgba(255,255,255,.8);
-  border-radius:.25em;
-  box-shadow:0 0 .25em rgba(0,0,0,.25);
-  box-sizing:border-box;
-  left:50%;
-  padding:10vmin;
-  position:fixed;
-  text-align:center;
-  top:50%;
-  transform:translate(-50%, -50%);
-} */
 
 h1 {
   font-family:monospace;
