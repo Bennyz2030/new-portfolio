@@ -18,7 +18,7 @@ _______________________________
 
 * Open your terminal or console and use the command __git clone__ with this repository link: https://github.com/Bennyz2030/new-portfolio.git
 * Enter the new directory with the command __cd new-portfolio__
-* _Or, open in GitHub Pages [here](https://bennyz2030.github.io/new-portfolio/)_
+* _Or, open in GitHub Pages [here](https://github.com/Bennyz2030/new-portfolio)_
 ________________________________
 
 ### Known Bugs 🐛
